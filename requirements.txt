@@ -1,3 +1,4 @@
 django-heroku
 decouple
 django
+gunicorn
